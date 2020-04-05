@@ -28,10 +28,19 @@
   color: #61dafb;
 }
 
+#map {
+  height: 50vh;
+  width: 50vw;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, 50%);
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
