@@ -41,7 +41,7 @@ class App extends Component {
     const parameters = {
       client_id: "ESG0EBRJ5E5Q1CXEV33B4SXFEGC3YNAH1KR2MSHJUWOVM3JM",
       client_secret: "0SRCR4ENB3JJRVUKPGXPQAWYXKXDTGAM3T5O1QH0OPFXTCWF",
-      query: "arts",
+      query: "shops",
       near: "Sydney",
       v: "20200405",
     };
